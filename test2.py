@@ -13,3 +13,6 @@ b=100
 c=a*b+(a-b)
 
 print(c)
+
+#Il existe au moins un commentaire
+#Un python est un serpent
